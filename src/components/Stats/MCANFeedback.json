@@ -1,0 +1,1783 @@
+[
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":2,
+          "user_answer":"American Eagle, Owl",
+          "explanation":""
+       },
+       "imageIndex":14580,
+       "question":"What is the name of this bird?",
+       "answer":"bird",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"3:35:51 PM",
+          "timestamp":1657879551295
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":4,
+          "user_answer":"",
+          "explaination":""
+       },
+       "imageIndex":26679,
+       "question":"What are flying?",
+       "answer":"kite",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"3:40:01 PM",
+          "timestamp":1657879801041
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":3,
+          "user_answer":"cat",
+          "explaination":""
+       },
+       "imageIndex":13246,
+       "question":"What is this animal?",
+       "answer":"mirror",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"3:40:41 PM",
+          "timestamp":1657879841985
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":4,
+          "user_answer":"in front of mirror",
+          "explaination":""
+       },
+       "imageIndex":13246,
+       "question":"Where is the cat standing?",
+       "answer":"mirror",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"3:41:19 PM",
+          "timestamp":1657879879737
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"carrot, broccoli, cauliflower, strawberry, pepper",
+          "explaination":""
+       },
+       "imageIndex":18074,
+       "question":"Name some of the vegetables here?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"3:43:56 PM",
+          "timestamp":1657880036922
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":4,
+          "user_answer":"yes",
+          "explaination":"",
+          "explanation":"Yes, it is a pizza and is eatable!"
+       },
+       "imageIndex":28478,
+       "question":"Is this eatable?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"3:44:57 PM",
+          "timestamp":1657880097670
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":4,
+          "user_answer":"pizza, oven",
+          "explaination":""
+       },
+       "imageIndex":28478,
+       "question":"What is this?",
+       "answer":"oven",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"3:47:13 PM",
+          "timestamp":1657880233378
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"red, black, green",
+          "explanation":""
+       },
+       "imageIndex":23762,
+       "question":"What color is the old man's shirt?",
+       "answer":"don't know",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"3:56:24 PM",
+          "timestamp":1657880784964
+       }
+    },
+    {
+       "auth":{
+          "name":null
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":2,
+          "user_answer":"Donut",
+          "explanation":"Train station in japan"
+       },
+       "imageIndex":33386,
+       "question":"What are they eating?",
+       "answer":"man",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"3:59:04 PM",
+          "timestamp":1657880944753
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"cake",
+          "explaination":""
+       },
+       "imageIndex":23762,
+       "question":"What is the name of the dessert on the table?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"4:01:02 PM",
+          "timestamp":1657881062522
+       }
+    },
+    {
+       "auth":{
+          "name":null
+       },
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":4,
+          "user_answer":"no",
+          "explaination":""
+       },
+       "imageIndex":4102,
+       "question":"Is this legal?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"4:01:43 PM",
+          "timestamp":1657881103093
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"dog",
+          "explaination":""
+       },
+       "imageIndex":17196,
+       "question":"What is this animal?",
+       "answer":"frisbee",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"4:02:49 PM",
+          "timestamp":1657881169931
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"bedroom, hotel",
+          "explanation":""
+       },
+       "imageIndex":33599,
+       "question":"What is this place?",
+       "answer":"nothing",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"4:05:26 PM",
+          "timestamp":1657881326324
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":2,
+          "user_answer":"brown",
+          "explaination":""
+       },
+       "imageIndex":33599,
+       "question":"What is the color of the pillows?",
+       "answer":"hotel",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"4:06:01 PM",
+          "timestamp":1657881361863
+       }
+    },
+    {
+       "auth":{
+          "name":"17mcme03"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"2",
+          "explanation":""
+       },
+       "imageIndex":12828,
+       "question":"How many cakes are on the plate",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"16:32:01",
+          "timestamp":1657882921056
+       }
+    },
+    {
+       "auth":{
+          "name":"17mcme03"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"FIFA U20 World Cup",
+          "explaination":""
+       },
+       "imageIndex":12828,
+       "question":"What is written on the man's shirt?",
+       "answer":"0",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"16:33:02",
+          "timestamp":1657882982533
+       }
+    },
+    {
+       "auth":{
+          "name":"17mcme03"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"MilkshakeorJuice",
+          "explaination":""
+       },
+       "imageIndex":12828,
+       "question":"What is in the glasses?",
+       "answer":"people",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"16:34:04",
+          "timestamp":1657883044162
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":2,
+          "user_answer":"camera",
+          "explanation":""
+       },
+       "imageIndex":23877,
+       "question":"What is in the woman's hands?",
+       "answer":"train",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"4:37:44 PM",
+          "timestamp":1657883264674
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"wood",
+          "explaination":""
+       },
+       "imageIndex":39406,
+       "question":"What is this bench made over?",
+       "answer":"0",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"4:38:15 PM",
+          "timestamp":1657883295394
+       }
+    },
+    {
+       "auth":{
+          
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":2,
+          "user_answer":"jeans, denim, cloth",
+          "explaination":""
+       },
+       "imageIndex":39406,
+       "question":"What kind of material are the man's pants made of?",
+       "answer":"sitting",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"4:39:15 PM",
+          "timestamp":1657883355153
+       }
+    },
+    {
+       "auth":{
+          "name":null
+       },
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":4,
+          "user_answer":"Yes",
+          "explanation":""
+       },
+       "imageIndex":10766,
+       "question":"Is TV switched on/off?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"4:39:45 pm",
+          "timestamp":1657883385296
+       }
+    },
+    {
+       "auth":{
+          "name":null
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"3",
+          "explaination":""
+       },
+       "imageIndex":2589,
+       "question":"How many birds are in the pic?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"4:43:18 pm",
+          "timestamp":1657883598256
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":4,
+          "user_answer":"",
+          "explanation":"The picture is in black and white"
+       },
+       "imageIndex":12612,
+       "question":"Is the picture in color?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"5:03:10 PM",
+          "timestamp":1657884790337
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":1,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":12612,
+       "question":"Is the picture in black and white?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"5:04:58 PM",
+          "timestamp":1657884898523
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"Tennis",
+          "explaination":""
+       },
+       "imageIndex":24841,
+       "question":"What sport is this?",
+       "answer":"0",
+       "timestamp":{
+          "date":"2022-07-15",
+          "time":"7:35:07 PM",
+          "timestamp":1657893907700
+       }
+    },
+    {
+       "auth":{
+          "name":null
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"Looking at each other",
+          "explanation":""
+       },
+       "imageIndex":14052,
+       "question":"What are they doing?",
+       "answer":"man",
+       "timestamp":{
+          "date":"2022-07-17",
+          "time":"1:39:09 pm",
+          "timestamp":1658045349612
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"tennis",
+          "explanation":""
+       },
+       "imageIndex":35857,
+       "question":"What sport is this?",
+       "answer":"0",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"1:07:22 PM",
+          "timestamp":1659425842700
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"horse",
+          "explaination":""
+       },
+       "imageIndex":18406,
+       "question":"What animal is this?",
+       "answer":"nothing",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"1:08:25 PM",
+          "timestamp":1659425905250
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"cat",
+          "explaination":""
+       },
+       "imageIndex":35728,
+       "question":"What is this animal?",
+       "answer":"motorcycle",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"1:11:24 PM",
+          "timestamp":1659426084972
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"bears",
+          "explaination":""
+       },
+       "imageIndex":9627,
+       "question":"What is the wall made of?",
+       "answer":"unknown",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"1:12:43 PM",
+          "timestamp":1659426163040
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":3,
+          "user_answer":"",
+          "explaination":""
+       },
+       "imageIndex":1,
+       "question":"Is there an animal in the image?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"1:14:22 PM",
+          "timestamp":1659426262004
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":1,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":40065,
+       "question":"Is this eatable?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"1:16:47 PM",
+          "timestamp":1659426407525
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"4",
+          "explanation":""
+       },
+       "imageIndex":22,
+       "question":"How many electronics are there?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"4:11:07 PM",
+          "timestamp":1659436867521
+       }
+    },
+    {
+       "auth":{
+          "name":"17MCME07"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"red, pink, brown",
+          "explaination":""
+       },
+       "imageIndex":28750,
+       "question":"What color are these bags?",
+       "answer":"baseball",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"4:12:36 PM",
+          "timestamp":1659436956830
+       }
+    },
+    {
+       "auth":{
+          "name":"16MCME11"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"Wedding",
+          "explaination":"",
+          "explanation":"The occasion is wedding."
+       },
+       "imageIndex":25569,
+       "question":"What is the occasion?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"20:41:23",
+          "timestamp":1659453083335
+       }
+    },
+    {
+       "auth":{
+          "name":"16MCME11"
+       },
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":4,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":34798,
+       "question":"Are there any carrots in the picture?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"20:43:09",
+          "timestamp":1659453189774
+       }
+    },
+    {
+       "auth":{
+          "name":"16MCME11"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":1,
+          "user_answer":"yes",
+          "explaination":"",
+          "explanation":"There are even number of teddy bears"
+       },
+       "imageIndex":8750,
+       "question":"Are there even number of teddy bears?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"20:44:29",
+          "timestamp":1659453269300
+       }
+    },
+    {
+       "auth":{
+          "name":"16MCME11"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"3",
+          "explaination":"",
+          "explanation":"There are 3 brown teddy bears."
+       },
+       "imageIndex":8750,
+       "question":"How many brown teddy bears?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"20:45:45",
+          "timestamp":1659453345824
+       }
+    },
+    {
+       "auth":{
+          "name":"16MCME11"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"1",
+          "explaination":"",
+          "explanation":"There is 1 ash color teddy bear."
+       },
+       "imageIndex":8750,
+       "question":"How many ash color teddy bears are in the picture?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"20:48:14",
+          "timestamp":1659453494418
+       }
+    },
+    {
+       "auth":{
+          "name":"16MCME11"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"Yes",
+          "explaination":"",
+          "explanation":"The person looks drunk in the picture."
+       },
+       "imageIndex":18149,
+       "question":"Is the person drunk in the picture ?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"20:50:12",
+          "timestamp":1659453612264
+       }
+    },
+    {
+       "auth":{
+          "name":"16MCME11"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"Tomato, eggs, bread, butter.",
+          "explaination":"",
+          "explanation":"There are tomatos, eggs, bread, butter."
+       },
+       "imageIndex":11886,
+       "question":"Name the edible things in the picture.",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"20:52:28",
+          "timestamp":1659453748621
+       }
+    },
+    {
+       "auth":{
+          "name":"16MCME11"
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":1,
+          "user_answer":"Pizza",
+          "explaination":"",
+          "explanation":"The man is holding a pizza."
+       },
+       "imageIndex":26800,
+       "question":"What is the man holding?",
+       "answer":"nothing",
+       "timestamp":{
+          "date":"2022-08-02",
+          "time":"20:54:16",
+          "timestamp":1659453856777
+       }
+    },
+    {
+       "auth":{
+          "name":null
+       },
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"white",
+          "explanation":"did not understand that the question is about color"
+       },
+       "imageIndex":2177,
+       "question":"what is the color of the horse?",
+       "answer":"trees",
+       "timestamp":{
+          "date":"2022-09-01",
+          "time":"15:10:48",
+          "timestamp":1662025248350
+       }
+    },
+    {
+       "auth":{
+          "name":null
+       },
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":4,
+          "user_answer":"yes",
+          "explanation":"none"
+       },
+       "imageIndex":11012,
+       "question":"Is this vegan meal?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-09-22",
+          "time":"11:31:24",
+          "timestamp":1663826484121
+       }
+    },
+    {
+       "model_number":"1",
+       "cookieuserID":"123",
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":3,
+          "user_answer":"fighting",
+          "explanation":"model is correct"
+       },
+       "imageIndex":12345,
+       "question":"what are they doing?",
+       "answer":"fighting",
+       "timestamp":{
+          "date":"04-10-2022",
+          "time":"11:15:27 AM",
+          "timestamp":1657879551295
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"2198132e-f452-431e-8def-7c8c9da5ff55",
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"train station",
+          "explanation":""
+       },
+       "imageIndex":9647,
+       "question":"which place is it?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-11-24",
+          "time":"12:01:52",
+          "timestamp":1669271512916
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"2198132e-f452-431e-8def-7c8c9da5ff55",
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"pizza",
+          "explanation":""
+       },
+       "imageIndex":744,
+       "question":"what is the boy eating?",
+       "answer":"nothing",
+       "timestamp":{
+          "date":"2022-11-24",
+          "time":"13:42:58",
+          "timestamp":1669277578805
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"2198132e-f452-431e-8def-7c8c9da5ff55",
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"pizza",
+          "explanation":""
+       },
+       "imageIndex":744,
+       "question":"what is the kid eating?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2022-11-24",
+          "time":"13:59:36",
+          "timestamp":1669278576397
+       }
+    },
+    {
+       "model_number":"1",
+       "cookieuserID":"123",
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":3,
+          "user_answer":"fighting",
+          "explanation":"model is correct"
+       },
+       "imageIndex":12345,
+       "question":"what are they doing?",
+       "answer":"fighting",
+       "timestamp":{
+          "date":"04-10-2022",
+          "time":"11:15:27 AM",
+          "timestamp":1657879551295
+       }
+    },
+    {
+       "model_number":"1",
+       "cookieuserID":"123",
+       "feedback":{
+          "answer":"yes",
+          "attention":null,
+          "relevance_score":3,
+          "user_answer":"fighting",
+          "explanation":"model is correct"
+       },
+       "imageIndex":12345,
+       "question":"what are they doing?",
+       "answer":"fighting",
+       "timestamp":{
+          "date":"04-10-2022",
+          "time":"11:15:27 AM",
+          "timestamp":1657879551295
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"86ea6023-2d65-496a-a177-927a17459816",
+       "feedback":{
+          "answer":"no",
+          "attention":null,
+          "relevance_score":0,
+          "user_answer":"Orange ",
+          "explanation":"It didn't locate the mat "
+       },
+       "imageIndex":3092,
+       "question":"What is the color of the mat in the toilet ?",
+       "answer":"toilet",
+       "timestamp":{
+          "date":"2022-12-07",
+          "time":"12:07:15 PM",
+          "timestamp":1670395035914
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"no",
+          "relevance_score":0,
+          "user_answer":"white",
+          "explanation":"It's color is White"
+       },
+       "imageIndex":1392,
+       "question":"What is the color of the fridge?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-01-24",
+          "time":"11:17:12",
+          "timestamp":1674539232668
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"yes",
+          "attention":"yes",
+          "relevance_score":4,
+          "user_answer":"no",
+          "explanation":"there are only mountains in the picture"
+       },
+       "imageIndex":3631,
+       "question":"is there sand in the picture?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-15",
+          "time":"10:28:02",
+          "timestamp":1676437082147
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"no",
+          "relevance_score":0,
+          "user_answer":"dog",
+          "explaination":""
+       },
+       "imageIndex":2069,
+       "question":"what animal is on the bottom right side?",
+       "answer":"unknown",
+       "timestamp":{
+          "date":"2023-02-15",
+          "time":"10:29:53",
+          "timestamp":1676437193160
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"cars",
+          "explanation":""
+       },
+       "imageIndex":899,
+       "question":"what vehicles are on the street?",
+       "answer":"0",
+       "timestamp":{
+          "date":"2023-02-15",
+          "time":"10:33:29",
+          "timestamp":1676437409777
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"no",
+          "relevance_score":0,
+          "user_answer":"cat",
+          "explanation":""
+       },
+       "imageIndex":393,
+       "question":"what animal is in the image?",
+       "answer":"collar",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"11:23:32",
+          "timestamp":1676613212279
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"two",
+          "explanation":""
+       },
+       "imageIndex":3008,
+       "question":"how many people are in there?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"12:22:44",
+          "timestamp":1676616764933
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":3,
+          "user_answer":"taking a photo",
+          "explaination":""
+       },
+       "imageIndex":3008,
+       "question":"what is the man in red shirt doing?",
+       "answer":"camera",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"13:52:43",
+          "timestamp":1676622163807
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"no",
+          "relevance_score":0,
+          "user_answer":"happy",
+          "explaination":""
+       },
+       "imageIndex":8704,
+       "question":"is the person on the left happy or sad?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"13:54:43",
+          "timestamp":1676622283303
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"yes",
+          "attention":"yes",
+          "relevance_score":4,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":9669,
+       "question":"is it night?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"13:58:00",
+          "timestamp":1676622480669
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"yes",
+          "attention":"yes",
+          "relevance_score":4,
+          "user_answer":"no",
+          "explaination":""
+       },
+       "imageIndex":9669,
+       "question":"is it daytime?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"13:58:39",
+          "timestamp":1676622519969
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"yes",
+          "attention":"yes",
+          "relevance_score":3,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":6423,
+       "question":"is it daytime?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:19:18",
+          "timestamp":1676623758581
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"dog",
+          "explaination":""
+       },
+       "imageIndex":6423,
+       "question":"what animal is it?",
+       "answer":"no sign",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:20:36",
+          "timestamp":1676623836866
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":6423,
+       "question":"is there a brown dog?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:21:37",
+          "timestamp":1676623897598
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"no",
+          "relevance_score":1,
+          "user_answer":"tennis racket",
+          "explanation":""
+       },
+       "imageIndex":5333,
+       "question":"what are the boys holding/",
+       "answer":"tennis",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:22:53",
+          "timestamp":1676623973896
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"tennis racket",
+          "explaination":""
+       },
+       "imageIndex":5333,
+       "question":"what is the boy wearing the res shirt holding?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:24:19",
+          "timestamp":1676624059526
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"skiing track",
+          "explaination":""
+       },
+       "imageIndex":9831,
+       "question":"what place is it?",
+       "answer":"0",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:26:39",
+          "timestamp":1676624199395
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"yes",
+          "attention":"no",
+          "relevance_score":2,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":1553,
+       "question":"is the man smiling?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:27:36",
+          "timestamp":1676624256329
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":0,
+          "user_answer":"no",
+          "explanation":""
+       },
+       "imageIndex":9313,
+       "question":"is land visible in the photo?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:29:47",
+          "timestamp":1676624387345
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"yes",
+          "attention":"yes",
+          "relevance_score":3,
+          "user_answer":"no",
+          "explaination":""
+       },
+       "imageIndex":4558,
+       "question":"is it night time?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:35:30",
+          "timestamp":1676624730160
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"white",
+          "explanation":""
+       },
+       "imageIndex":4372,
+       "question":"what is the color of the flowers on the cake?",
+       "answer":"food",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:37:15",
+          "timestamp":1676624835860
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"yes",
+          "attention":"yes",
+          "relevance_score":4,
+          "user_answer":"toothbrush",
+          "explaination":""
+       },
+       "imageIndex":9549,
+       "question":"what is the boy holding?",
+       "answer":"toothbrush",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:37:59",
+          "timestamp":1676624879344
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"yes",
+          "attention":"yes",
+          "relevance_score":4,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":5775,
+       "question":"is the dog wearing a collar ?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2023-02-17",
+          "time":"14:39:16",
+          "timestamp":1676624956658
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"yes",
+          "attention":"yes",
+          "relevance_score":4,
+          "user_answer":"yes",
+          "explanation":""
+       },
+       "imageIndex":786,
+       "question":"are there any traffic lights?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2023-02-21",
+          "time":"14:04:20",
+          "timestamp":1676968460758
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"book",
+          "explaination":""
+       },
+       "imageIndex":4659,
+       "question":"What is the black object in the picture?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-21",
+          "time":"14:05:35",
+          "timestamp":1676968535366
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":7122,
+       "question":"is there a tree outside the window?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-21",
+          "time":"14:07:00",
+          "timestamp":1676968620867
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"cow",
+          "explaination":""
+       },
+       "imageIndex":5116,
+       "question":"what animal is eating the bread?",
+       "answer":"grass",
+       "timestamp":{
+          "date":"2023-02-21",
+          "time":"14:07:52",
+          "timestamp":1676968672884
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"e50c7083-3fc8-44b5-8b8d-52861f4b3c9a",
+       "feedback":{
+          "answer":"yes",
+          "attention":"yes",
+          "relevance_score":4,
+          "user_answer":"no",
+          "explaination":""
+       },
+       "imageIndex":4179,
+       "question":"is the man to the right of the backpack holding an umbrella?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-21",
+          "time":"14:10:09",
+          "timestamp":1676968809234
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"red",
+          "explanation":""
+       },
+       "imageIndex":540,
+       "question":"what is the color of the train?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:28:20",
+          "timestamp":1677041900075
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"carrot",
+          "explaination":""
+       },
+       "imageIndex":8818,
+       "question":"what vegetable is the statue holding?",
+       "answer":"hot dog",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:30:56",
+          "timestamp":1677042056277
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"no",
+          "relevance_score":0,
+          "user_answer":"cat",
+          "explanation":""
+       },
+       "imageIndex":4063,
+       "question":"what animal is on the sofa?",
+       "answer":"computer",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:34:57",
+          "timestamp":1677042297708
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"sheep",
+          "explaination":""
+       },
+       "imageIndex":8084,
+       "question":"what animal is it?",
+       "answer":"no sign",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:40:20",
+          "timestamp":1677042620738
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"white",
+          "explaination":""
+       },
+       "imageIndex":8084,
+       "question":"what is the color of the sheep's fur?",
+       "answer":"yes",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:41:34",
+          "timestamp":1677042694771
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"white",
+          "explaination":""
+       },
+       "imageIndex":8084,
+       "question":"what is the color of the sheep",
+       "answer":"cows",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:43:13",
+          "timestamp":1677042793253
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"watch",
+          "explanation":""
+       },
+       "imageIndex":7590,
+       "question":"what object is in the image?",
+       "answer":"black",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:45:33",
+          "timestamp":1677042933012
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":1,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":7590,
+       "question":"are there any black numbers?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:46:55",
+          "timestamp":1677043015441
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"no",
+          "relevance_score":0,
+          "user_answer":"black",
+          "explaination":""
+       },
+       "imageIndex":5375,
+       "question":"what color bag is the woman carrying?",
+       "answer":"0",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:51:45",
+          "timestamp":1677043305231
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":0,
+          "user_answer":"dog",
+          "explaination":""
+       },
+       "imageIndex":5375,
+       "question":"what animal is to the right of the woman?",
+       "answer":"camera",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:52:45",
+          "timestamp":1677043365765
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"03c4ce07-bab2-4007-bb04-776995aff086",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":0,
+          "user_answer":"yes",
+          "explaination":""
+       },
+       "imageIndex":621,
+       "question":"are there any strawberries on the cake?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:55:07",
+          "timestamp":1677043507914
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"c09e05ec-0777-4e3c-9e93-a5fa0cafb2bf",
+       "feedback":{
+          "answer":"no",
+          "attention":"yes",
+          "relevance_score":0,
+          "user_answer":"yes",
+          "explanation":""
+       },
+       "imageIndex":621,
+       "question":"is the girl smiling?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"10:56:28",
+          "timestamp":1677043588645
+       }
+    },
+    {
+       "model_number":1,
+       "cookieUserID":"c09e05ec-0777-4e3c-9e93-a5fa0cafb2bf",
+       "feedback":{
+          "answer":"yes",
+          "attention":"yes",
+          "relevance_score":3,
+          "user_answer":"no",
+          "explanation":""
+       },
+       "imageIndex":6739,
+       "question":"is the goose to the left side of the train?",
+       "answer":"no",
+       "timestamp":{
+          "date":"2023-02-22",
+          "time":"11:03:42",
+          "timestamp":1677044022191
+       }
+    }
+ ]

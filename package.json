@@ -1,0 +1,90 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-react-chart": "^4.0.3",
+    "@devexpress/dx-react-chart-material-ui": "^4.0.3",
+    "@devexpress/dx-react-core": "^4.0.3",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/styles": "^4.11.5",
+    "@mui/icons-material": "^5.6.2",
+    "@mui/material": "^5.10.1",
+    "@mui/styles": "^5.6.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "js-cookie": "^3.0.1",
+    "prop-types": "^15.8.1",
+    "react": "^17.0.0",
+    "react-cookie": "^4.1.1",
+    "react-dom": "^17.0.0",
+    "react-icons": "^4.3.1",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "react-swipeable-views": "^0.14.0",
+    "seedrandom": "^3.0.5",
+    "universal-cookie": "^4.0.4",
+    "uuidv4": "^6.2.13",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "PORT=2023  react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 6006 -s public",
+    "build-storybook": "build-storybook -s public",
+    "demo": "cd ../mock-api/ && node dist/index.js & REACT_APP_MOCK_API_URL=http://localhost:4000 REACT_APP_DEMO=true npm start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "flow": "flow"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "overrides": [
+      {
+        "files": [
+          "**/*.stories.*"
+        ],
+        "rules": {
+          "import/no-anonymous-default-export": "off"
+        }
+      }
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@storybook/addon-actions": "^6.4.21",
+    "@storybook/addon-essentials": "^6.4.21",
+    "@storybook/addon-interactions": "^6.4.21",
+    "@storybook/addon-links": "^6.4.21",
+    "@storybook/builder-webpack5": "^6.4.21",
+    "@storybook/manager-webpack5": "^6.4.21",
+    "@storybook/node-logger": "^6.4.21",
+    "@storybook/preset-create-react-app": "^1.2.0",
+    "@storybook/react": "^6.1.21",
+    "@storybook/testing-library": "^0.0.9",
+    "flow-bin": "^0.184.0",
+    "gh-pages": "^4.0.0",
+    "storybook-addon-material-ui": "^0.9.0-alpha.24",
+    "webpack": "^5.72.0"
+  }
+}
